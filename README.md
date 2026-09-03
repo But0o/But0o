@@ -1,85 +1,120 @@
-Agustín Lamendola
+# 👋 Hi, I'm Agustín Lamendola
 
-Software Development Student | Backend | Linux | Networking
+### 💻 Software Development Student | 🐍 Backend | 🐧 Linux | 🌐 Networking
 
-Estudiante de Tecnicatura en Desarrollo de Software, interesado principalmente en desarrollo backend, sistemas, redes y ciberseguridad.
+I'm a **Software Development student** currently building my skills through academic and personal projects, with a primary interest in **backend development, systems, networking, and cybersecurity**.
 
-Actualmente estoy construyendo experiencia mediante proyectos personales y académicos, con especial interés en Python, bases de datos, Linux, automatización y desarrollo de aplicaciones.
+I'm particularly interested in **Python, backend development, databases, Linux, and automation**, while also pursuing professional growth in **networking and cybersecurity**. I'm continuously expanding my knowledge through personal and academic projects and I'm always open to learning new technologies.
 
-Tecnologías
+---
 
-Programming
+## 🛠️ Technologies & Tools
 
-* Python
-* Java
-* Kotlin
-* JavaScript
-* PHP
+### 💻 Programming
 
-Backend & Databases
+* 🐍 Python
+* ☕ Java
+* 🟣 Kotlin
+* 🟨 JavaScript
+* 🐘 PHP
 
-* PostgreSQL
-* MySQL
-* APIs REST
-* SQL
+### ⚙️ Backend & Databases
 
-Tools & Systems
+* 🚀 REST APIs
+* 🗄️ PostgreSQL
+* 🐬 MySQL
+* 🔎 SQL
 
-* Git
-* GitHub
-* Linux
-* Windows
-* Bash
-* Fish
-* Cisco Packet Tracer
+### 🐧 Systems & Tools
 
-Web
+* 🔧 Git
+* 🐙 GitHub
+* 🐧 Linux
+* 🪟 Windows
+* 🖥️ Bash
+* 🐟 Fish
+* 🌐 Cisco Packet Tracer
+
+### 🌐 Web
 
 * HTML
 * CSS
 * Bootstrap
 
-Projects
+---
 
-Pokémon Fastfetch
+## 🚀 Projects
 
-Herramienta para terminal Linux que integra Fastfetch, Kitty Graphics y una Pokédex local para mostrar Pokémon de forma aleatoria al iniciar la terminal.
+### 🎮 Pokémon Fastfetch
 
-* Bash
-* Linux
-* Fish
-* ImageMagick
-* CLI
-* Automatización
+A Linux terminal customization project that integrates **Fastfetch, Kitty Graphics and a local Pokédex** to display Pokémon artwork and information directly in the terminal.
 
-Algoritmos y Estructuras de Datos I
+**Technologies:**
+`Bash` `Linux` `Fish` `ImageMagick` `CLI` `Automation`
 
-Repositorio académico con ejercicios de Python relacionados con algoritmos, estructuras de datos, funciones, listas, matrices, cadenas, excepciones, archivos y recursividad.
+---
 
-SkyDefence
+### 🧠 Algorithms & Data Structures I
 
-Proyecto desarrollado en Java aplicando conceptos de programación orientada a objetos.
+Academic repository containing Python exercises focused on algorithms, data structures and fundamental programming concepts.
 
-AppGw2
+**Topics include:**
 
-Proyecto desarrollado utilizando Kotlin y Gradle.
+* Lists & matrices
+* Functions
+* Strings
+* Exceptions
+* File handling
+* Recursion
+* Algorithms & data structures
 
-Currently Learning
+---
 
-* Backend development
-* REST APIs
-* Database design
-* Networking
-* Linux administration
-* Cybersecurity fundamentals
+### 🛡️ SkyDefence
 
-Goals
+Java project developed to apply **Object-Oriented Programming (OOP)** concepts.
 
-Mi objetivo profesional es comenzar mi carrera en IT, inicialmente orientado al desarrollo backend, y continuar evolucionando hacia áreas relacionadas con infraestructura, redes, DevOps y ciberseguridad.
+**Technologies:**
+`Java` `OOP`
 
-Estoy abierto a aprender nuevas tecnologías y adaptarme a las necesidades de cada proyecto.
+---
 
-Contact
+### 📱 AppGw2
 
-* Email: agustinleonardola@gmail.com
-* GitHub: https://github.com/But0o
+Application project developed using **Kotlin and Gradle**.
+
+**Technologies:**
+`Kotlin` `Gradle`
+
+---
+
+## 📚 Currently Learning
+
+* 🐍 Backend Development
+* 🚀 REST API Development
+* 🗄️ Database Design
+* 🌐 Networking
+* 🐧 Linux Administration
+* 🔐 Cybersecurity Fundamentals
+
+---
+
+## 🎯 Goals
+
+My professional goal is to start my career in **IT**, initially focusing on **backend development**, while progressively expanding my knowledge into:
+
+`Backend` → `Linux` → `Networking` → `Infrastructure` → `DevOps` → `Cybersecurity`
+
+I'm open to learning new technologies, taking on new challenges, and adapting to the needs of different projects and teams.
+
+---
+
+## 📫 Contact
+
+* 📧 **Email:** [agustinleonardola@gmail.com](mailto:agustinleonardola@gmail.com)
+* 🐙 **GitHub:** [@But0o](https://github.com/But0o)
+* 💼 **LinkedIn:** *Add your LinkedIn profile here*
+
+---
+
+### ⚡ Always learning. Always building. Always improving.
