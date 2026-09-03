@@ -113,7 +113,7 @@ I'm open to learning new technologies, taking on new challenges, and adapting to
 
 * 📧 **Email:** [agustinleonardola@gmail.com](mailto:agustinleonardola@gmail.com)
 * 🐙 **GitHub:** [@But0o](https://github.com/But0o)
-* 💼 **LinkedIn:** *Add your LinkedIn profile here*
+* 💼 **LinkedIn:** [Lamendola Agustin](https://ar.linkedin.com/in/agustin-lamendola)
 
 ---
 
