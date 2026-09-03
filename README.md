@@ -54,6 +54,24 @@ A Linux terminal customization project that integrates **Fastfetch, Kitty Graphi
 
 ---
 
+### 📱 AppGw2
+
+Application project developed using **Kotlin and Gradle**.
+
+**Technologies:**
+`Kotlin` `Gradle`
+
+---
+
+### 🛡️ SkyDefence
+
+Java project developed to apply **Object-Oriented Programming (OOP)** concepts.
+
+**Technologies:**
+`Java` `OOP`
+
+---
+
 ### 🧠 Algorithms & Data Structures I
 
 Academic repository containing Python exercises focused on algorithms, data structures and fundamental programming concepts.
@@ -67,24 +85,6 @@ Academic repository containing Python exercises focused on algorithms, data stru
 * File handling
 * Recursion
 * Algorithms & data structures
-
----
-
-### 🛡️ SkyDefence
-
-Java project developed to apply **Object-Oriented Programming (OOP)** concepts.
-
-**Technologies:**
-`Java` `OOP`
-
----
-
-### 📱 AppGw2
-
-Application project developed using **Kotlin and Gradle**.
-
-**Technologies:**
-`Kotlin` `Gradle`
 
 ---
 
