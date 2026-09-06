@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Agustín Lamendola
 
-### 💻 Software Development Student | 🐍 Backend | 🐧 Linux 
-###             | 🌐 Networking | 🔐 Cybersecurity
+### 💻 Software Development Student | 🐍 Backend | 🌐 Networking | 🐧 Linux | 🔐 Cybersecurity
 
 I'm a **Software Development student** currently building my skills through academic and personal projects, with a primary interest in **backend development, systems, networking, and cybersecurity**.
 
-I'm particularly interested in **Python, backend development, databases, Linux, networking, and automation**, while continuously expanding my knowledge through hands-on projects and academic work.
+My main focus is **Python, backend development, Linux, networking, and automation**, while progressively expanding my knowledge into network programming, infrastructure, and cybersecurity.
 
-My current goal is to start my professional career in IT, combining my software development background with a growing specialization in **networking, infrastructure, and cybersecurity**.
+I'm particularly interested in learning by building practical projects that allow me to apply software development concepts to real-world technical problems.
 
 ---
 
@@ -39,62 +38,160 @@ My current goal is to start my professional career in IT, combining my software 
 * 🐟 Fish
 * 🌐 Cisco Packet Tracer
 
-### 🌐 Web
-
-* HTML
-* CSS
-* Bootstrap
-
 ### 🌐 Networking & Security
 
 * TCP/IP
 * IPv4 / IPv6
 * Subnetting & CIDR
-* DNS
 * TCP / UDP
 * ICMP
+* ARP
+* DNS
 * Network Discovery
 * Port Scanning
 * Network Monitoring
+* Network Programming
 * Basic Network Security
 
+### 🌐 Web
+
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### 🎮 Pokémon Fastfetch
+## 🌐 NetGuard
 
-A Linux terminal customization project that integrates **Fastfetch, Kitty Graphics, ImageMagick and a local Pokédex** to display Pokémon artwork and information directly in the terminal.
+**Network Discovery & Security Monitor**
 
-The project combines shell scripting, automation, caching and terminal customization to create a dynamic Pokémon-themed system information display.
+NetGuard is an educational **network monitoring and security project built with Python**, focused on developing practical knowledge in **Networking, Linux, Network Programming, and Cybersecurity**.
+
+This is my main personal project and represents the direction I am currently taking professionally. It is being developed incrementally, with each stage introducing new networking concepts, protocols, tools, and software engineering practices.
+
+The project explores areas such as:
+
+* 🔎 Local network and host discovery
+* 📡 Network interface detection
+* 📊 Connectivity and latency monitoring
+* 📉 Packet loss monitoring
+* 🔍 TCP port scanning
+* 🧩 Service detection
+* 🌐 DNS analysis
+* 📋 Network inventory
+* 🚨 Security events and suspicious activity detection
+* ⚡ FastAPI and REST APIs
+* 📊 Network monitoring and visualization
+
+Through NetGuard, I'm developing practical knowledge of:
+
+`Python` `Sockets` `TCP/IP` `IPv4/IPv6` `CIDR` `ICMP` `TCP` `UDP` `ARP` `DNS` `FastAPI` `Linux` `Networking` `Cybersecurity`
+
+The project is intentionally being developed step by step as a **learning and portfolio project**, documenting both the technical implementation and the networking concepts behind it.
+
+🔗 [View Repository](https://github.com/But0o/NetGuard)
+
+---
+
+## 🎮 AresGamer 2.0
+
+A **Python-based offline game management system** developed as a university team project for managing video games, users, and game installations across PCs in a gaming center or simulator space.
+
+The system uses local **JSON files for data persistence** and provides different access levels for administrators and PC users.
+
+Main functionality includes:
+
+* 🎮 Game library management
+* 👤 User and account management
+* 🖥️ PC-user management
+* 📦 Game installation management
+* 🔐 Permission management
+* 🔎 Game search and listing
+* 📄 Local JSON-based persistence
+* 🖥️ Console-based interface
+
+The project provided practical experience with **Python, modular programming, data persistence, collaborative development, and Git/GitHub workflows**.
 
 **Technologies:**
 
-`Bash` `Linux` `Fish` `ImageMagick` `Fastfetch` `CLI` `Automation`
+`Python` `JSON` `Tabulate` `Git` `GitHub`
 
-🔗 [View Repository](https://github.com/But0o/pokemon-fastfetch)
+🔗 [View Repository](https://github.com/But0o/AresGamer_2.0)
 
 ---
 
-### 📱 AppGw2
+## 🎮 Pokémon Fastfetch
 
-Application project developed using **Kotlin and Gradle**.
+A **Pokémon-themed Linux terminal customization project** that combines **Fastfetch, Bash scripting, Kitty Graphics, ImageMagick, and a local Pokédex** to create a dynamic system information display.
 
-The project was created to practice application development using Kotlin and explore project management and dependency handling with Gradle.
+Instead of showing a static image, the project automatically selects and displays Pokémon artwork together with system information directly inside the terminal.
+
+The project was designed as a combination of **terminal customization and automation**, while also exploring practical concepts such as file management, caching, metadata handling, shell scripting, and image processing.
+
+### ✨ Features
+
+* 🎲 Random Pokémon selection
+* 🔢 Pokémon selection by name or Pokédex number
+* 🖼️ Pixel-art Pokémon artwork displayed directly in the terminal
+* 📊 System information powered by Fastfetch
+* ⚡ Image caching to improve performance
+* 🗂️ Local metadata and Pokédex information
+* 🔍 Pokémon name and number lookup
+* 🐧 Linux-focused implementation
+* 🖥️ Integration with Kitty Graphics
+* 🐚 Shell integration and terminal automation
+
+The project uses a local Pokémon image collection and metadata system to dynamically retrieve the selected Pokémon and prepare its artwork for terminal display.
+
+To improve performance, the script implements a **cache system**, reducing unnecessary image processing and file operations when Pokémon data or artwork has already been prepared.
+
+### 🧠 Concepts Explored
+
+Through this project, I worked with:
+
+* Bash scripting
+* File and directory management
+* Command-line interfaces
+* Automation
+* Image processing
+* Caching strategies
+* Metadata handling
+* Terminal graphics
+* Linux environments
+* Shell integration
 
 **Technologies:**
 
-`Kotlin` `Gradle`
+`Bash` `Linux` `Fastfetch` `Kitty Graphics` `Fish` `ImageMagick` `CLI` `Automation` `Caching`
+
+🔗 [View Repository](https://github.com/But0o/Pokemon-Fastfetch)
 
 ---
 
-### 🛡️ SkyDefence
+## 🌐 Personal Portfolio
 
-A **Java-based tower defense game** developed as a university team project.
+A personal portfolio website created to present my projects, technical skills, learning path, and professional profile.
 
-The project was created to apply **Object-Oriented Programming principles** in a complete interactive application, including game entities, object interactions, graphical interfaces, testing and collaborative development using Git and GitHub.
+The website was developed without frameworks or a build system, using standard web technologies and designed to be deployed directly through **GitHub Pages**.
 
-The project provided practical experience with:
+**Technologies:**
+
+`HTML` `CSS` `JavaScript` `GitHub Pages`
+
+🔗 [View Repository](https://github.com/But0o/Porfolio)
+
+---
+
+## 🛡️ SkyDefence
+
+A **Java-based tower defense game** developed as a university team project to apply **Object-Oriented Programming principles** in a complete interactive application.
+
+The project involved designing game entities, implementing interactions between objects, developing a graphical interface, testing functionality, and collaborating through Git and GitHub.
+
+Key concepts applied:
 
 * Object-Oriented Programming
 * Encapsulation
@@ -102,8 +199,8 @@ The project provided practical experience with:
 * Polymorphism
 * Abstraction
 * Object composition
+* Testing
 * Collaborative development
-* Git & GitHub
 
 **Technologies:**
 
@@ -113,40 +210,21 @@ The project provided practical experience with:
 
 ---
 
-### 🌐 NetGuard
+## 📱 AppGw2
 
-An educational **network discovery and security monitoring tool built with Python**, focused on developing practical knowledge in **Networking, Linux and Cybersecurity**.
+Application project developed using **Kotlin and Gradle**.
 
-NetGuard is being developed incrementally, with each stage introducing new networking concepts, protocols and software engineering practices.
-
-The project explores functionality such as:
-
-* 🔎 Local network discovery
-* 🖥️ Host discovery
-* 📡 Connectivity monitoring
-* 📊 Latency and packet loss monitoring
-* 🔍 TCP port scanning
-* 🧩 Basic service detection
-* 🌐 DNS information
-* 📋 Network inventory
-* 🔐 Network security events
-* 🚨 Basic threat detection
-* 🚀 REST API development
-* 📊 Network monitoring dashboard
-
-The project is also being used to deepen my understanding of **TCP/IP, IPv4/IPv6, CIDR, ICMP, TCP, UDP, ARP, DNS, sockets and network security concepts**.
+The project was created to practice Kotlin application development and project management using Gradle.
 
 **Technologies:**
 
-`Python` `FastAPI` `Sockets` `TCP/IP` `DNS` `Linux` `Networking` `Cybersecurity` `REST API` `Git`
-
-🔗 [View Repository](https://github.com/But0o/NetGuard)
+`Kotlin` `Gradle`
 
 ---
 
-### 🧠 Algorithms & Data Structures I
+## 🧠 Algorithms & Data Structures I
 
-Academic repository containing Python exercises focused on **algorithms, data structures and fundamental programming concepts**.
+Academic repository containing Python exercises focused on **algorithms, data structures, and fundamental programming concepts**.
 
 **Topics include:**
 
@@ -164,37 +242,42 @@ Academic repository containing Python exercises focused on **algorithms, data st
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-* 🐍 Backend Development
+My current learning path is focused on strengthening my foundations in software development while progressively moving deeper into networking and cybersecurity.
+
+* 🐍 Python & Backend Development
 * 🚀 REST API Development
-* 🗄️ Database Design
 * 🌐 Computer Networking
+* 🔌 Network Programming
 * 🐧 Linux Administration
 * 🔐 Cybersecurity Fundamentals
 * 🛡️ Network Security
-* ⚙️ Network Programming
-* ☁️ Infrastructure & DevOps
+* ⚙️ Infrastructure & DevOps
+* ☁️ Cloud Networking
 
 ---
 
-## 🎯 Goals
+# 🎯 Professional Goals
 
-My professional goal is to start my career in **IT**, initially focusing on **backend development**, while progressively expanding my knowledge into networking, infrastructure and cybersecurity.
+My professional goal is to start my career in **IT**, initially focusing on **backend development**, while progressively specializing in **networking, infrastructure, and cybersecurity**.
 
-I'm particularly interested in opportunities where I can continue developing my technical skills and gain professional experience working with real-world systems.
+I'm particularly interested in opportunities where I can work with real-world systems, continue developing my programming skills, and gain professional experience in networking and security.
 
-My current learning path is:
+My current technical direction is:
 
 `Backend` → `Linux` → `Networking` → `Infrastructure` → `DevOps` → `Cybersecurity`
 
+I'm continuously building projects to turn theoretical knowledge into practical experience.
+
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 * 📧 **Email:** [agustinleonardola@gmail.com](mailto:agustinleonardola@gmail.com)
 * 🐙 **GitHub:** [@But0o](https://github.com/But0o)
 * 💼 **LinkedIn:** [Lamendola Agustin](https://ar.linkedin.com/in/agustin-lamendola)
+* 🌐 **Portfolio:** [Live Website](https://but0o.github.io/Porfolio/)
 
 ---
 
