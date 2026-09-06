@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Agustín Lamendola
 
-### 💻 Software Development Student | 🐍 Backend | 🐧 Linux | 🌐 Networking | 🔐 Cybersecurity
+### 💻 Software Development Student | 🐍 Backend | 🐧 Linux 
+###             | 🌐 Networking | 🔐 Cybersecurity
 
 I'm a **Software Development student** currently building my skills through academic and personal projects, with a primary interest in **backend development, systems, networking, and cybersecurity**.
 
