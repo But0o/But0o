@@ -211,15 +211,37 @@ Key concepts applied:
 
 ---
 
-## 📱 AppGw2
+## ⚔️ Arsenal de Tyria (Gw2Web)
 
-Application project developed using **Kotlin and Gradle**.
+**Guild Wars 2 Item Browser — Progressive Web App**
 
-The project was created to practice Kotlin application development and project management using Gradle.
+A **web application for searching Guild Wars 2 items**, crafting recipes, trading post prices, and account data, built with **React and TypeScript** and installable as a **PWA** on desktop and mobile.
+
+The project began as **AppGw2**, an Android app written in **Kotlin**, and was rebuilt for the web with a different architecture. The original app downloaded the entire item catalog on every device (around 370 API calls). The web version instead generates a **static search index once a day with GitHub Actions**, so the browser downloads a single file and searches locally.
+
+Main functionality includes:
+
+* 🔎 Instant search across ~74,000 items, accent-insensitive, with type and rarity filters
+* 📜 Item details: stats, attributes, and in-game chat links
+* 💰 Crafting recipes with ingredient costs from the trading post
+* ⭐ Favorites stored in the browser
+* 👤 Account data through the official GW2 API (hours played, expansions, WvW rank, gold)
+* 📴 Offline support via service worker
+* 🔐 No backend: API keys and favorites never leave the browser
+
+Through this project, I worked with:
+
+* REST API consumption and caching strategies
+* Static data pipelines and CI/CD with GitHub Actions
+* Progressive Web Apps and service workers
+* Search and relevance ranking
+* Migrating a mobile app to a web architecture
 
 **Technologies:**
 
-`Kotlin` `Gradle`
+`TypeScript` `React` `Vite` `PWA` `Workbox` `REST APIs` `GitHub Actions` `GitHub Pages` `Kotlin (original version)`
+
+🔗 [View Repository](https://github.com/But0o/Gw2Web) · 🌐 [Live App](https://but0o.github.io/Gw2Web/)
 
 ---
 
