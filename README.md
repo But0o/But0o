@@ -182,7 +182,7 @@ The website was developed without frameworks or a build system, using standard w
 
 `HTML` `CSS` `JavaScript` `GitHub Pages`
 
-🔗 [View Repository](https://github.com/But0o/Porfolio)
+🔗 [View Repository](https://github.com/But0o/Porfolio) · 🌐 [Live Porfolio](https://but0o.github.io/Porfolio/)
 
 ---
 
