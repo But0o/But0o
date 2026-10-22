@@ -88,12 +88,12 @@ I learn by building: network tools, backend services and the occasional terminal
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=But0o&show_icons=true&hide_border=true&bg_color=161b22&title_color=ff6b4a&icon_color=ffcb05&text_color=c9d1d9&rank_icon=github">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=But0o&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=e3350d&icon_color=3d7dca&text_color=24292f&rank_icon=github" alt="Agustín's GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=But0o&show_icons=true&hide_border=true&bg_color=161b22&title_color=ff6b4a&icon_color=ffcb05&text_color=c9d1d9&rank_icon=github&card_width=450">
+    <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=But0o&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=e3350d&icon_color=3d7dca&text_color=24292f&rank_icon=github&card_width=450" alt="Agustín's GitHub stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=But0o&layout=compact&langs_count=6&hide_border=true&bg_color=161b22&title_color=ff6b4a&text_color=c9d1d9">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=But0o&layout=compact&langs_count=6&hide_border=true&bg_color=f6f8fa&title_color=e3350d&text_color=24292f" alt="Most used languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=But0o&layout=compact&langs_count=8&card_width=438&hide_border=true&bg_color=161b22&title_color=ff6b4a&text_color=c9d1d9">
+    <img width="49.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=But0o&layout=compact&langs_count=8&card_width=438&hide_border=true&bg_color=f6f8fa&title_color=e3350d&text_color=24292f" alt="Most used languages">
   </picture>
 </p>
 
