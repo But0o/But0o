@@ -2,7 +2,7 @@
 
 ## 🎯 About Me
 
-<img align="right" src="assets/pokedex.svg" width="260" alt="Pokédex entry #137 Porygon, the first Pokémon made entirely of programming code">
+<img align="right" src="assets/pokedex.svg" width="260" alt="Pokédex entry #094 Gengar, animated pixel sprite">
 
 ```python
 trainer = {

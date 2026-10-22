@@ -1,7 +1,7 @@
 """Genera assets/banner.svg y assets/pokedex.svg (sprite incrustado en base64).
 
 Uso: python3 tools/build_assets.py <sprite.gif>
-Sprite: PokeAPI/sprites, generation-v/black-white/animated/137.gif
+Sprite: PokeAPI/sprites, generation-v/black-white/animated/94.gif
 """
 import base64
 import math
@@ -102,9 +102,9 @@ def banner():
 def pokedex(gif_path):
     gif = base64.b64encode(pathlib.Path(gif_path).read_bytes()).decode()
     w, h = 340, 412
-    sw, sh = 57 * 4, 53 * 4
+    sw, sh = 74 * 3, 63 * 3
     sx, sy = (w - sw) / 2, 74 + (230 - sh) / 2
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="Pokédex entry #137 Porygon">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="Pokédex entry #094 Gengar">
   <defs>
     <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
       <rect width="4" height="1" fill="#000" opacity=".22"/>
@@ -127,12 +127,12 @@ def pokedex(gif_path):
   <rect x="30" y="72" width="{w - 60}" height="234" rx="4" fill="url(#grid)"/>
   <image x="{sx}" y="{sy}" width="{sw}" height="{sh}" style="image-rendering:pixelated" href="data:image/gif;base64,{gif}" xlink:href="data:image/gif;base64,{gif}"/>
   <rect x="30" y="72" width="{w - 60}" height="234" rx="4" fill="url(#scan)"/>
-  <text x="42" y="94" fill="#7ee2a8" font-family="{MONO}" font-size="12">#137</text>
+  <text x="42" y="94" fill="#7ee2a8" font-family="{MONO}" font-size="12">#094</text>
 
-  <text x="24" y="346" fill="#fff" font-family="{MONO}" font-size="17" font-weight="700">PORYGON</text>
-  <text x="{w - 24}" y="346" text-anchor="end" fill="#fff" font-family="{MONO}" font-size="12">TYPE / NORMAL</text>
-  <text x="24" y="372" fill="#fff" font-family="{MONO}" font-size="12">The first Pokémon made</text>
-  <text x="24" y="388" fill="#fff" font-family="{MONO}" font-size="12">entirely of programming code.</text>
+  <text x="24" y="346" fill="#fff" font-family="{MONO}" font-size="17" font-weight="700">GENGAR</text>
+  <text x="{w - 24}" y="346" text-anchor="end" fill="#fff" font-family="{MONO}" font-size="12">GHOST / POISON</text>
+  <text x="24" y="372" fill="#fff" font-family="{MONO}" font-size="12">Hides in the shadows and</text>
+  <text x="24" y="388" fill="#fff" font-family="{MONO}" font-size="12">chills the room around it.</text>
 </svg>
 '''
 
