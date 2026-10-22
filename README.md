@@ -1,307 +1,102 @@
-# 👋 Hi, I'm Agustín Lamendola
+<img src="assets/banner.svg" width="100%" alt="Agustín Lamendola — Backend · Networking · Linux · Cybersecurity">
 
-### 💻 Software Development Student | 🐍 Backend | 🌐 Networking | 🐧 Linux | 
-### 🔐 Cybersecurity
+## 🎯 About Me
 
-I'm a **Software Development student** currently building my skills through academic and personal projects, with a primary interest in **backend development, systems, networking, and cybersecurity**.
+<img align="right" src="assets/pokedex.svg" width="260" alt="Pokédex entry #137 Porygon, the first Pokémon made entirely of programming code">
 
-My main focus is **Python, backend development, Linux, networking, and automation**, while progressively expanding my knowledge into network programming, infrastructure, and cybersecurity.
+```python
+trainer = {
+    "name":     "Agustín Lamendola",
+    "region":   "Buenos Aires, AR",
+    "class":    "Software Development Student",
+    "type":     ["Backend", "Networking"],
+    "moves":    ["Python", "FastAPI", "SQL", "Linux", "Bash"],
+    "training": [
+        "Network Programming",
+        "Linux Administration",
+        "Cybersecurity Fundamentals",
+    ],
+    "evolution": "Backend → Infrastructure → Cybersecurity",
+}
+```
 
-I'm particularly interested in learning by building practical projects that allow me to apply software development concepts to real-world technical problems.
+I learn by building: network tools, backend services and the occasional terminal tweak. Each project in my Pokédex below covers something I wanted to understand properly.
 
----
+<br clear="right">
 
-## 🛠️ Technologies & Tools
+## 🤝 Connect
 
-### 💻 Programming
+<p>
+  <a href="https://ar.linkedin.com/in/agustin-lamendola"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://but0o.github.io/Porfolio/"><img src="https://img.shields.io/badge/Portfolio-e3350d?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:agustinleonardola@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-* 🐍 Python
-* ☕ Java
-* 🟣 Kotlin
-* 🟨 JavaScript
-* 🐘 PHP
+## ⚡ Tech Stack
 
-### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,linux,bash,git,github,java,kotlin,js,ts,react,vite,php,html,css&perline=9" alt="Python, FastAPI, PostgreSQL, MySQL, Linux, Bash, Git, GitHub, Java, Kotlin, JavaScript, TypeScript, React, Vite, PHP, HTML, CSS">
+</p>
 
-* 🚀 REST APIs
-* ⚡ FastAPI
-* 🗄️ PostgreSQL
-* 🐬 MySQL
-* 🔎 SQL
+**Networking:**
+`TCP/IP` `IPv4 / IPv6` `Subnetting & CIDR` `TCP / UDP` `ICMP` `ARP` `DNS` `Sockets` `Cisco Packet Tracer`
 
-### 🐧 Systems & Tools
+## 📟 Pokédex · Featured Projects
 
-* 🔧 Git
-* 🐙 GitHub
-* 🐧 Linux
-* 🪟 Windows
-* 🖥️ Bash
-* 🐟 Fish
-* 🌐 Cisco Packet Tracer
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/But0o/NetGuard"><img src="assets/projects/netguard.png" width="400" alt="Concept of the NetGuard dashboard: hosts online, latency chart, discovered hosts and security events"></a>
+      <br><sub><code>#001</code></sub> <b><a href="https://github.com/But0o/NetGuard">NetGuard</a></b>
+      <br><sub>Network discovery and security monitor. My main project, built stage by stage. <i>Image: concept of the final dashboard.</i></sub>
+      <br><code>Python</code> <code>Sockets</code> <code>FastAPI</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/But0o/Gw2Web"><img src="assets/projects/arsenal.png" width="400" alt="Arsenal de Tyria item search with featured gear list"></a>
+      <br><sub><code>#002</code></sub> <b><a href="https://github.com/But0o/Gw2Web">Arsenal de Tyria</a></b> · <a href="https://but0o.github.io/Gw2Web/">live</a>
+      <br><sub>Guild Wars 2 item browser. A daily GitHub Actions job builds a static index, so search runs locally over ~74k items.</sub>
+      <br><code>TypeScript</code> <code>React</code> <code>PWA</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/But0o/pokemon-fastfetch"><img src="assets/projects/fastfetch.png" width="400" alt="Kitty terminal showing Dragonite pixel art, its stats and system info"></a>
+      <br><sub><code>#003</code></sub> <b><a href="https://github.com/But0o/pokemon-fastfetch">Pokémon Fastfetch</a></b>
+      <br><sub>Offline Pokémon dashboard for Kitty: a random Pokémon with its stats next to your system info. Cached and tested in CI.</sub>
+      <br><code>Bash</code> <code>ImageMagick</code> <code>Kitty</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/But0o/SkyDefence"><img src="assets/projects/sky.png" width="400" alt="SkyDefence start screen, a gameplay mockup made from the game's sprites and the three ship skins"></a>
+      <br><sub><code>#004</code></sub> <b><a href="https://github.com/But0o/SkyDefence">SkyDefence</a></b>
+      <br><sub>Arcade space defence game built as a university team to practice OOP and software design.</sub>
+      <br><code>Java</code> <code>OOP</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <table><tr><td width="50%">
+      <a href="https://github.com/But0o/AresGamer_2.0"><img src="assets/projects/ares.png" width="400" alt="AresGamer 2.0 running in a terminal: admin menu and installed games table"></a>
+      <br><sub><code>#005</code></sub> <b><a href="https://github.com/But0o/AresGamer_2.0">AresGamer 2.0</a></b>
+      <br><sub>Offline game and user manager for a gaming center, with admin and PC roles. University team project.</sub>
+      <br><code>Python</code> <code>JSON</code> <code>Tabulate</code>
+      </td></tr></table>
+    </td>
+  </tr>
+</table>
 
-### 🌐 Networking & Security
+## 📊 GitHub Stats
 
-* TCP/IP
-* IPv4 / IPv6
-* Subnetting & CIDR
-* TCP / UDP
-* ICMP
-* ARP
-* DNS
-* Network Discovery
-* Port Scanning
-* Network Monitoring
-* Network Programming
-* Basic Network Security
-
-### 🌐 Web
-
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-
----
-
-# 🚀 Projects
-
-## 🌐 NetGuard
-
-**Network Discovery & Security Monitor**
-
-NetGuard is an educational **network monitoring and security project built with Python**, focused on developing practical knowledge in **Networking, Linux, Network Programming, and Cybersecurity**.
-
-This is my main personal project and represents the direction I am currently taking professionally. It is being developed incrementally, with each stage introducing new networking concepts, protocols, tools, and software engineering practices.
-
-The project explores areas such as:
-
-* 🔎 Local network and host discovery
-* 📡 Network interface detection
-* 📊 Connectivity and latency monitoring
-* 📉 Packet loss monitoring
-* 🔍 TCP port scanning
-* 🧩 Service detection
-* 🌐 DNS analysis
-* 📋 Network inventory
-* 🚨 Security events and suspicious activity detection
-* ⚡ FastAPI and REST APIs
-* 📊 Network monitoring and visualization
-
-Through NetGuard, I'm developing practical knowledge of:
-
-`Python` `Sockets` `TCP/IP` `IPv4/IPv6` `CIDR` `ICMP` `TCP` `UDP` `ARP` `DNS` `FastAPI` `Linux` `Networking` `Cybersecurity`
-
-The project is intentionally being developed step by step as a **learning and portfolio project**, documenting both the technical implementation and the networking concepts behind it.
-
-🔗 [View Repository](https://github.com/But0o/NetGuard)
-
----
-
-## 🎮 AresGamer 2.0
-
-A **Python-based offline game management system** developed as a university team project for managing video games, users, and game installations across PCs in a gaming center or simulator space.
-
-The system uses local **JSON files for data persistence** and provides different access levels for administrators and PC users.
-
-Main functionality includes:
-
-* 🎮 Game library management
-* 👤 User and account management
-* 🖥️ PC-user management
-* 📦 Game installation management
-* 🔐 Permission management
-* 🔎 Game search and listing
-* 📄 Local JSON-based persistence
-* 🖥️ Console-based interface
-
-The project provided practical experience with **Python, modular programming, data persistence, collaborative development, and Git/GitHub workflows**.
-
-**Technologies:**
-
-`Python` `JSON` `Tabulate` `Git` `GitHub`
-
-🔗 [View Repository](https://github.com/But0o/AresGamer_2.0)
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=But0o&show_icons=true&hide_border=true&bg_color=161b22&title_color=ff6b4a&icon_color=ffcb05&text_color=c9d1d9&rank_icon=github">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=But0o&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=e3350d&icon_color=3d7dca&text_color=24292f&rank_icon=github" alt="Agustín's GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=But0o&layout=compact&langs_count=6&hide_border=true&bg_color=161b22&title_color=ff6b4a&text_color=c9d1d9">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=But0o&layout=compact&langs_count=6&hide_border=true&bg_color=f6f8fa&title_color=e3350d&text_color=24292f" alt="Most used languages">
+  </picture>
+</p>
 
 ---
 
-## 🎮 Pokémon Fastfetch
-
-A **Pokémon-themed Linux terminal customization project** that combines **Fastfetch, Bash scripting, Kitty Graphics, ImageMagick, and a local Pokédex** to create a dynamic system information display.
-
-Instead of showing a static image, the project automatically selects and displays Pokémon artwork together with system information directly inside the terminal.
-
-The project was designed as a combination of **terminal customization and automation**, while also exploring practical concepts such as file management, caching, metadata handling, shell scripting, and image processing.
-
-### ✨ Features
-
-* 🎲 Random Pokémon selection
-* 🔢 Pokémon selection by name or Pokédex number
-* 🖼️ Pixel-art Pokémon artwork displayed directly in the terminal
-* 📊 System information powered by Fastfetch
-* ⚡ Image caching to improve performance
-* 🗂️ Local metadata and Pokédex information
-* 🔍 Pokémon name and number lookup
-* 🐧 Linux-focused implementation
-* 🖥️ Integration with Kitty Graphics
-* 🐚 Shell integration and terminal automation
-
-The project uses a local Pokémon image collection and metadata system to dynamically retrieve the selected Pokémon and prepare its artwork for terminal display.
-
-To improve performance, the script implements a **cache system**, reducing unnecessary image processing and file operations when Pokémon data or artwork has already been prepared.
-
-### 🧠 Concepts Explored
-
-Through this project, I worked with:
-
-* Bash scripting
-* File and directory management
-* Command-line interfaces
-* Automation
-* Image processing
-* Caching strategies
-* Metadata handling
-* Terminal graphics
-* Linux environments
-* Shell integration
-
-**Technologies:**
-
-`Bash` `Linux` `Fastfetch` `Kitty Graphics` `Fish` `ImageMagick` `CLI` `Automation` `Caching`
-
-🔗 [View Repository](https://github.com/But0o/Pokemon-Fastfetch)
-
----
-
-## 🌐 Personal Portfolio
-
-A personal portfolio website created to present my projects, technical skills, learning path, and professional profile.
-
-The website was developed without frameworks or a build system, using standard web technologies and designed to be deployed directly through **GitHub Pages**.
-
-**Technologies:**
-
-`HTML` `CSS` `JavaScript` `GitHub Pages`
-
-🔗 [View Repository](https://github.com/But0o/Porfolio) · 🌐 [Live Porfolio](https://but0o.github.io/Porfolio/)
-
----
-
-## 🛡️ SkyDefence
-
-A **Java-based tower defense game** developed as a university team project to apply **Object-Oriented Programming principles** in a complete interactive application.
-
-The project involved designing game entities, implementing interactions between objects, developing a graphical interface, testing functionality, and collaborating through Git and GitHub.
-
-Key concepts applied:
-
-* Object-Oriented Programming
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Abstraction
-* Object composition
-* Testing
-* Collaborative development
-
-**Technologies:**
-
-`Java` `OOP` `Git` `GitHub`
-
-🔗 [View Repository](https://github.com/But0o/SkyDefence)
-
----
-
-## ⚔️ Arsenal de Tyria (Gw2Web)
-
-**Guild Wars 2 Item Browser — Progressive Web App**
-
-A **web application for searching Guild Wars 2 items**, crafting recipes, trading post prices, and account data, built with **React and TypeScript** and installable as a **PWA** on desktop and mobile.
-
-The project began as **AppGw2**, an Android app written in **Kotlin**, and was rebuilt for the web with a different architecture. The original app downloaded the entire item catalog on every device (around 370 API calls). The web version instead generates a **static search index once a day with GitHub Actions**, so the browser downloads a single file and searches locally.
-
-Main functionality includes:
-
-* 🔎 Instant search across ~74,000 items, accent-insensitive, with type and rarity filters
-* 📜 Item details: stats, attributes, and in-game chat links
-* 💰 Crafting recipes with ingredient costs from the trading post
-* ⭐ Favorites stored in the browser
-* 👤 Account data through the official GW2 API (hours played, expansions, WvW rank, gold)
-* 📴 Offline support via service worker
-* 🔐 No backend: API keys and favorites never leave the browser
-
-Through this project, I worked with:
-
-* REST API consumption and caching strategies
-* Static data pipelines and CI/CD with GitHub Actions
-* Progressive Web Apps and service workers
-* Search and relevance ranking
-* Migrating a mobile app to a web architecture
-
-**Technologies:**
-
-`TypeScript` `React` `Vite` `PWA` `Workbox` `REST APIs` `GitHub Actions` `GitHub Pages` `Kotlin (original version)`
-
-🔗 [View Repository](https://github.com/But0o/Gw2Web) · 🌐 [Live App](https://but0o.github.io/Gw2Web/)
-
----
-
-## 🧠 Algorithms & Data Structures I
-
-Academic repository containing Python exercises focused on **algorithms, data structures, and fundamental programming concepts**.
-
-**Topics include:**
-
-* Lists & matrices
-* Functions
-* Strings
-* Exceptions
-* File handling
-* Recursion
-* Algorithms & data structures
-
-**Technologies:**
-
-`Python` `Algorithms` `Data Structures`
-
----
-
-# 📚 Currently Learning
-
-My current learning path is focused on strengthening my foundations in software development while progressively moving deeper into networking and cybersecurity.
-
-* 🐍 Python & Backend Development
-* 🚀 REST API Development
-* 🌐 Computer Networking
-* 🔌 Network Programming
-* 🐧 Linux Administration
-* 🔐 Cybersecurity Fundamentals
-* 🛡️ Network Security
-* ⚙️ Infrastructure & DevOps
-* ☁️ Cloud Networking
-
----
-
-# 🎯 Professional Goals
-
-My professional goal is to start my career in **IT**, initially focusing on **backend development**, while progressively specializing in **networking, infrastructure, and cybersecurity**.
-
-I'm particularly interested in opportunities where I can work with real-world systems, continue developing my programming skills, and gain professional experience in networking and security.
-
-My current technical direction is:
-
-`Backend` → `Linux` → `Networking` → `Infrastructure` → `DevOps` → `Cybersecurity`
-
-I'm continuously building projects to turn theoretical knowledge into practical experience.
-
----
-
-# 📫 Contact
-
-* 📧 **Email:** [agustinleonardola@gmail.com](mailto:agustinleonardola@gmail.com)
-* 🐙 **GitHub:** [@But0o](https://github.com/But0o)
-* 💼 **LinkedIn:** [Lamendola Agustin](https://ar.linkedin.com/in/agustin-lamendola)
-* 🌐 **Portfolio:** [Live Website](https://but0o.github.io/Porfolio/)
-
----
-
-### ⚡ Always learning. Always building. Always improving.
+<p align="center"><sub>Always learning. Always building. Gotta ship 'em all.</sub></p>
