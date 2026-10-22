@@ -66,9 +66,9 @@ I learn by building: network tools, backend services and the occasional terminal
       <br><code>Bash</code> <code>ImageMagick</code> <code>Kitty</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/But0o/SkyDefence"><img src="assets/projects/sky.png" width="400" alt="SkyDefence start screen, a gameplay mockup made from the game's sprites and the three ship skins"></a>
+      <a href="https://github.com/But0o/SkyDefence"><img src="assets/projects/sky.png" width="400" alt="SkyDefence gameplay on level 6, main menu and ship selector"></a>
       <br><sub><code>#004</code></sub> <b><a href="https://github.com/But0o/SkyDefence">SkyDefence</a></b>
-      <br><sub>Arcade space defence game built as a university team to practice OOP and software design.</sub>
+      <br><sub>Arcade space shooter in Java Swing: drone waves, boss fights and ship skins. University team project to practice OOP.</sub>
       <br><code>Java</code> <code>OOP</code>
     </td>
   </tr>
