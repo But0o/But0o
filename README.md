@@ -60,7 +60,7 @@ I learn by building: network tools, backend services and the occasional terminal
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/But0o/pokemon-fastfetch"><img src="assets/projects/fastfetch.png" width="400" alt="Kitty terminal showing Dragonite pixel art, its stats and system info"></a>
+      <a href="https://github.com/But0o/pokemon-fastfetch"><img src="assets/projects/fastfetch.png" width="400" alt="Kitty terminal showing Charizard pixel art, its stats and system info"></a>
       <br><sub><code>#003</code></sub> <b><a href="https://github.com/But0o/pokemon-fastfetch">Pokémon Fastfetch</a></b>
       <br><sub>Offline Pokémon dashboard for Kitty: a random Pokémon with its stats next to your system info. Cached and tested in CI.</sub>
       <br><code>Bash</code> <code>ImageMagick</code> <code>Kitty</code>
